@@ -1,16 +1,52 @@
-## Hi there 👋
+### 👋 Hi, I’m Abinaya
 
-<!--
-**abinayasudhir/abinayasudhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack software engineer with over 10 years of experience building scalable, high-performance applications across web, mobile, and AI platforms.
 
-Here are some ideas to get you started:
+I’ve worked with global teams across the U.S., U.K., and India, and I enjoy solving real-world problems using clean, efficient code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 What I’m Good At
+
+- **Frontend**: React, Tailwind CSS, Elm, TypeScript, Next.js  
+- **Backend**: Node.js, Supabase, Rust, PostgreSQL, Golang
+- **AI/LLM**: LangChain, CrewAI, FastMCP, Retrieval-Augmented Generation (RAG)  
+
+
+---
+
+### 🛠 Featured Projects
+
+#### 🔹 [Cascades](#)
+> A retirement income planner used in the financial sector  
+> React • Node.js • Rust • Tax modeling • PDF generation
+
+#### 🔹 [Xapo Help Center](https://customersupport.xapo.com/lang/en_us/)
+> Public customer support platform for Xapo  
+> Sole developer • Fast, multilingual UI • CMS integration
+
+#### 🔹 [html-parser](https://github.com/abinayasudhir/html-parser)
+> Forked and improved HTML parser for CMS Management
+
+
+---
+
+### 💡 What I’m Learning
+
+- Agentic workflows with LangChain & CrewAI  
+- Rust for high-performance services  
+- Building MCP-compatible servers with FastMCP
+
+---
+
+### 📬 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/abinayasudhir)  
+- 📧 Email: abinayasudhir@gmail.com  
+
+
+---
+
+### 🙌 Thanks for visiting!
+
+Feel free to check out my work or reach out if you want to collaborate.
