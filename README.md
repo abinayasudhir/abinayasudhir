@@ -8,7 +8,7 @@ I’ve worked with global teams across the U.S., U.K., and India, and I enjoy so
 - 🌍 Remote developer since 2016
 ---
 
-### 🧠 What I’m Good At
+### What I’m Good At
 
 - **Frontend**: React, Tailwind CSS, Elm, TypeScript, Next.js  
 - **Backend**: Node.js, Supabase, Rust, PostgreSQL, Golang
