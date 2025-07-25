@@ -19,7 +19,7 @@ I’ve worked with global teams across the U.S., U.K., and India, and I enjoy so
 
 ### 🛠 Featured Projects
 
-#### 🔹 [Cascades](#)
+#### 🔹 [Cascades](https://www.milestones-retirement.com/)
 > A retirement income planner used in the financial sector  
 > React • Node.js • Rust • Tax modeling • PDF generation
 
