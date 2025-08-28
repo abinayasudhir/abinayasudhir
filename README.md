@@ -5,7 +5,7 @@ I'm a full-stack software engineer with over 10 years of experience building sca
 I’ve worked with global teams across the U.S., U.K., and India, and I enjoy solving real-world problems using clean, efficient code.
 
 - 💼 Companies: IKEA, PureFacts, Xapo, Timeline, ChainApi
-- 🌍 Remote developer since 2016
+- 🌍 Remote developer since 2015
 ---
 
 ### What I’m Good At
