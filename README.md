@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Abinaya
 
-I'm a full-stack software engineer with over 10 years of experience building scalable, high-performance applications across web, mobile, and AI platforms.
+I'm a full-stack software engineer with over 13 years of experience building scalable, high-performance applications across web, mobile, and AI platforms.Earned an Engineering degree in 2011
 
 I’ve worked with global teams across the U.S., U.K., and India, and I enjoy solving real-world problems using clean, efficient code.
 
